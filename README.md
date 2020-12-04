@@ -16,3 +16,6 @@ Per a recommendation from a user on my youtube channel (thanks Jonathan M Santos
 ![front](front.png)
 ![back](back.png)
 
+-------------------------------------------------------------------------------------------------------------------
+
+Fork of Makho's AGB board for my own design. Details to follow.
